@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Opaku Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/Opaque02/Opaku/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site is for the privacy policy for the sudoku game Opaku. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Opaku does not collect any user data
 
-### Markdown
+With Opaku, everything you do, you control. Every puzzle you solve or create is stored on your phone and has no automatic uplink to the cloud. If you ever want to upload a puzzle to the cloud though, you are in control of the entire upload process, and can decide to simply not share your seed to the cloud even after it's been made - no one will know what the seed is until you choose to share it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In terms of the app, the only things it has access to is reading/writing information to/from it's own internal folder (so only saved preferences, puzzles etc), internet in case you want to upload sudokus to the cloud, and stopping your phone turning off the screen after 30 seconds or so of inactivity - I'm not great at sudoku and sometimes stare at it for a minute or two before seeing something, and I don't know about you, but I wouldn't want it lock on me when I can't figure out any of the next steps!
 
-```markdown
-Syntax highlighted code block
+And with that, that's it!
 
-# Header 1
-## Header 2
-### Header 3
+Seriously. There's no ads, no need to login to anything, no need to send data to anything or anyone - in fact, if you never want to use the upload feature and don't even turn your internet on, you can still create/solve sudokus perfectly fine!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Opaque02/Opaku/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, please feel free to reach out to me at opasudoku@gmail.com
